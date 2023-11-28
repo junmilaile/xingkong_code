@@ -4,7 +4,7 @@
 
 <template>
   <div class="about">
-    <div><span>Sass </span></div>
+    <div><span>Sass 星空</span></div>
     <div class="itme1"></div>
     <div class="itme2"></div>
     <div class="itme3"></div>
